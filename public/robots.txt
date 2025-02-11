@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://to-do-list-nu-jet-99.vercel.app/sitemap.xml
